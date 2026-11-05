@@ -81,9 +81,15 @@ It's so unreal
 Didn't look out below
 
 Watch the time go right out the window
+
 Tryin' to hold on, but you didn't even know
+
 Wasted it all just to watch you go
+
 I kept everything inside
+
 And even though I tried, it all fell apart
+
 What it meant to me will eventually be a memory
+
 Of a time when I tried so hard

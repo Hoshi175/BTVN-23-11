@@ -2,12 +2,12 @@
 
 **Linkin Park**
 
-[Intro: Chester Bennington]
+### [Intro: Chester Bennington]
 
 It starts with one
 
 
-[Verse 1: Mike Shinoda, Mike Shinoda & Chester Bennington]
+### [Verse 1: Mike Shinoda, Mike Shinoda & Chester Bennington]
 
 One thing, I don't know why
 
@@ -35,7 +35,7 @@ I wasted it all just to watch you go
 
 
 
-[Pre-Chorus: Mike Shinoda]
+### [Pre-Chorus: Mike Shinoda]
 
 I kept everything inside
 
@@ -45,7 +45,8 @@ What it meant to me will eventually be
 
 A memory of a time when I tried so hard
 
-[Chorus: Chester Bennington]
+
+### [Chorus: Chester Bennington]
 
 I tried so hard and got so far
 
@@ -55,7 +56,8 @@ I had to fall to lose it all
 
 But in the end, it doesn't even matter
 
-[Verse 2: Mike Shinoda, Mike Shinoda & Chester Bennington]
+
+### [Verse 2: Mike Shinoda, Mike Shinoda & Chester Bennington]
 
 One thing, I don't know why
 
@@ -82,7 +84,7 @@ Not that you knew me back then
 But it all comes back to me in the end
 
 
-[Pre-Chorus: Mike Shinoda]
+### [Pre-Chorus: Mike Shinoda]
 
 You kept everything inside
 
@@ -93,7 +95,7 @@ What it meant to me will eventually be
 A memory of a time when I tried so hard
 
 
-[Chorus: Chester Bennington]
+### [Chorus: Chester Bennington]
 
 I tried so hard and got so far
 
@@ -103,7 +105,8 @@ I had to fall to lose it all
 
 But in the end, it doesn't even matter
 
-[Bridge: Chester Bennington]
+
+### [Bridge: Chester Bennington]
 
 I've put my trust in you
 
@@ -118,8 +121,7 @@ Pushed as far as I can go
 For all this, there's only one thing you should know
 
 
-
-[Chorus: Chester Bennington]
+### [Chorus: Chester Bennington]
 
 I tried so hard and got so far
 
